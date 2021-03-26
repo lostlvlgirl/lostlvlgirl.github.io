@@ -2,7 +2,49 @@
     "platform": "Instagram",
     "username": "lostlvlgirl",
     "open": {
-        "disabled": true,
+        "disabled": false,
         "link": "https://instagram.com/lostlvlgirl"
+    }
+},{
+    "platform": "Tellonym",
+    "username": "lostlvlgirl",
+    "open": {
+        "disabled": false,
+        "link": "https://tellonym.me/lostlvlgirl"
+    }
+},{
+    "platform": "Snapchat",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+},{
+    "platform": "Twitch",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+},{
+    "platform": "Cockbook",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+},{
+    "platform": "Reddit",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+},{
+    "platform": "Twitter",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
     }
 }]
