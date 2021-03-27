@@ -1,48 +1,124 @@
 [{
     "platform": "Instagram",
     "username": "lostlvlgirl",
-    "icon": true,
     "open": {
         "disabled": false,
         "link": "https://instagram.com/lostlvlgirl"
     }
-},{
+}, {
     "platform": "Tellonym",
     "username": "lostlvlgirl",
     "open": {
         "disabled": false,
         "link": "https://tellonym.me/lostlvlgirl"
     }
-},{
+}, {
+    "platform": "GitHub",
+    "username": "lostlvlgirl",
+    "open": {
+        "disabled": false,
+        "link": "https://github.com/lostlvlgirl"
+    }
+}, {
     "platform": "Snapchat",
     "username": null,
     "open": {
         "disabled": true,
         "link": null
     }
-},{
+}, {
     "platform": "Twitch",
     "username": null,
     "open": {
         "disabled": true,
         "link": null
     }
-},{
-    "platform": "Cockbook",
+}, {
+    "platform": "Facebook",
     "username": null,
     "open": {
         "disabled": true,
         "link": null
     }
-},{
+}, {
     "platform": "Reddit",
     "username": null,
     "open": {
         "disabled": true,
         "link": null
     }
-},{
+}, {
     "platform": "Twitter",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "Discord",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "Telegram",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "Tinder",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "YouTube",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "whatsApp",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "Twitch",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "Spotify",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "TikTok",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "PayPal",
+    "username": null,
+    "open": {
+        "disabled": true,
+        "link": null
+    }
+}, {
+    "platform": "Pinterest",
     "username": null,
     "open": {
         "disabled": true,
