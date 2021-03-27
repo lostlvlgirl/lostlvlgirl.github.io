@@ -1,6 +1,7 @@
 [{
     "platform": "Instagram",
     "username": "lostlvlgirl",
+    "icon": true,
     "open": {
         "disabled": false,
         "link": "https://instagram.com/lostlvlgirl"
